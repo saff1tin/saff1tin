@@ -1,5 +1,6 @@
 # 💫 Hello, I'm Gael!
 
+🙋‍♂️ My pronouns are he/him<br/>
 🧑‍🎓 On the road to be a CyberSecurity professional<br/>
 👯 I’m looking to collaborate on any fun project to train & learn more<br/>
 🌱 I’m currently learning C/C++ and Kotlin<br/>
