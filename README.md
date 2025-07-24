@@ -1,9 +1,10 @@
 # 💫 Hello, I'm Gael!
 
 🙋‍♂️ My pronouns are he/him<br/>
-🧑‍🎓 On the road to be a CyberSecurity professional<br/>
+👨🏻‍💻 CyberSecurity Technician<br/>
+🧑‍🎓 Majoring in Information Systems<br/>
 👯 I’m looking to collaborate on any fun project to train & learn more<br/>
-🌱 I’m currently learning C/C++ and Kotlin<br/>
+🌱 Currently learning C/C++<br/>
 
 ## 🌐 Find me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gael-fernandes-cunha-984895256) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/saffyt1n) 
